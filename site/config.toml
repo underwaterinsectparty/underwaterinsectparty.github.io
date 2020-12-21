@@ -1,0 +1,4 @@
+baseURL = "http://underwaterinsectparty.github.io"
+languageCode = "en-us"
+title = "Noah Smith"
+theme = "ananke"
