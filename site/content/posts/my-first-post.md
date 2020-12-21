@@ -5,3 +5,4 @@ draft: false
 
 ---
 hello
+{{< gallery dir="/img/" />}} {{< load-photoswipe >}}
